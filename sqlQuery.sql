@@ -25,3 +25,10 @@ batch_job_seq
 batch_step_execution
 batch_step_execution_context
 batch_step_execution_seq
+
+
+List of Reader and Writer in Spring batch :
+https://docs.spring.io/spring-batch/3.0.x/reference/html/listOfReadersAndWriters.html
+
+More Reader and Writer Example :-
+https://examples.javacodegeeks.com/enterprise-java/spring/batch/spring-batch-itemreaders-and-itemwriters-example/
